@@ -1,0 +1,29 @@
+{
+  "name": "package-a",
+  "version": "1.0.1",
+  "description": "package-a测试的",
+  "author": "lizuncong <2900170896@qq.com>",
+  "homepage": "https://github.com/lizuncong/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/package-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizuncong/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lizuncong/lerna-demo/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
