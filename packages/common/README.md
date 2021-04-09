@@ -1,11 +1,11 @@
-# `ui-common`
+# `@lzc/common`
 
 > TODO: description
 
 ## Usage
 
 ```
-const uiCommon = require('ui-common');
+const common = require('@lzc/common');
 
 // TODO: DEMONSTRATE API
 ```

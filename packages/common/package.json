@@ -1,11 +1,11 @@
 {
-  "name": "ui-common",
-  "version": "2.0.0",
+  "name": "@lzc/common",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "lizuncong <2900170896@qq.com>",
-  "homepage": "https://github.com/lizuncong/lerna-demo/tree/master/packages/ui-common#readme",
+  "homepage": "https://github.com/lizuncong/lerna-demo/tree/master/packages/common#readme",
   "license": "ISC",
-  "main": "lib/ui-common.js",
+  "main": "lib/common.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lizuncong/lerna-demo.git"
@@ -22,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/lizuncong/lerna-demo/issues"
-  },
-  "gitHead": "54b1d218ad9f750b88922e3d9a7aa77abee68990"
+  }
 }

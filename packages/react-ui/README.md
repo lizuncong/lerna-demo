@@ -1,11 +1,11 @@
-# `package-b`
+# `@lzc/react-ui`
 
 > TODO: description
 
 ## Usage
 
 ```
-const packageB = require('package-b');
+const reactUi = require('@lzc/react-ui');
 
 // TODO: DEMONSTRATE API
 ```

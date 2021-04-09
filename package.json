@@ -1,9 +1,9 @@
 {
   "name": "lerna-demo",
   "version": "1.0.0",
-  "description": "",
-  "private": true,
+  "description": "- lerna默认使用的是集中版本，所有的package共用一个version，如果需要packages下\r   不同的模块使用不同的版本号，需要配置 Independent 模式。在`lerna.json`中增加属性配置：\r   `version: independent`",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
