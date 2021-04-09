@@ -1,14 +1,9 @@
 {
   "name": "package-b",
-  "version": "1.0.2-alpha.0",
-  "description": "这是package b",
-  "keywords": [
-    "package",
-    "b",
-    "seo"
-  ],
+  "version": "0.0.0",
+  "description": "> TODO: description",
   "author": "lizuncong <2900170896@qq.com>",
-  "homepage": "https://github.com/lizuncong/lerna-demo#readme",
+  "homepage": "https://github.com/lizuncong/lerna-demo/tree/master/packages/package-b#readme",
   "license": "ISC",
   "main": "lib/package-b.js",
   "directories": {
@@ -29,7 +24,6 @@
     "url": "https://github.com/lizuncong/lerna-demo/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
-    "package-a": "^1.0.2-alpha.0"
+    "ui-common": "^0.0.0"
   }
 }

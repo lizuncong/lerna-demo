@@ -1,11 +1,11 @@
-# `package-c`
+# `ui-common`
 
 > TODO: description
 
 ## Usage
 
 ```
-const packageC = require('package-c');
+const uiCommon = require('ui-common');
 
 // TODO: DEMONSTRATE API
 ```
