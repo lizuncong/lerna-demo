@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "lizuncong <2900170896@qq.com>",
   "homepage": "https://github.com/lizuncong/lerna-demo/tree/master/packages/package-b#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/lizuncong/lerna-demo/issues"
   },
   "dependencies": {
-    "ui-common": "^1.0.1"
+    "ui-common": "^2.0.0"
   }
 }
