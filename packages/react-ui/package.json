@@ -1,6 +1,6 @@
 {
   "name": "@lzc/react-ui",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "> TODO: description",
   "author": "lizuncong <2900170896@qq.com>",
   "homepage": "https://github.com/lizuncong/lerna-demo/tree/master/packages/react-ui#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/lizuncong/lerna-demo/issues"
   },
   "dependencies": {
-    "@lzc/common": "^2.0.3"
+    "@lzc/common": "^2.0.4"
   },
   "gitHead": "64cc7770e7229161f65d70855dfa0ca9962ab4f5"
 }
