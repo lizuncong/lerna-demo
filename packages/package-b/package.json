@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "1.0.1",
+  "version": "1.0.2-alpha.0",
   "description": "这是package b",
   "keywords": [
     "package",
@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "package-a": "^1.0.1"
+    "package-a": "^1.0.2-alpha.0"
   }
 }

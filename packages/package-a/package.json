@@ -1,6 +1,6 @@
 {
   "name": "package-a",
-  "version": "1.0.1",
+  "version": "1.0.2-alpha.0",
   "description": "package-a测试的",
   "author": "lizuncong <2900170896@qq.com>",
   "homepage": "https://github.com/lizuncong/lerna-demo#readme",
